@@ -2,7 +2,7 @@ A simple Book Store web application built with Laravel and Bootstrap. This proje
 
 Screenshot
 ![Screenshot132265652656216](https://github.com/user-attachments/assets/3520c62a-d3b0-49d1-9d42-184c56c3c403)
-
+Youtube video link:https://youtu.be/5WW9lqyAtXo?si=xc0rJTAgVr6xmwi7
 Features
 List all books with pagination
 Search books by title or author
